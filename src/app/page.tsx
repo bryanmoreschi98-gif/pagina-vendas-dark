@@ -111,7 +111,7 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center space-y-6">
             <p className="text-lg sm:text-xl text-gray-300 leading-relaxed">
-              Se você luta contra a distração e a sobrecarga de tarefas, não está sozinho. Apresentamos o <span className="text-blue-400 font-semibold">FocusAI</span>, um aplicativo inovador criado especialmente para ajudar pessoas com ADHD a alcançar suas metas de forma divertida e eficaz. A jornada para uma vida mais produtiva começa aqui!
+              Se você luta contra a distração e a sobrecarga de tarefas, não está sozinho. Apresentamos o <span className="text-blue-400 font-semibold">FocusAI</span>, um aplicativo inovador criado especialmente para ajudar pessoas com TDAH a alcançar suas metas de forma divertida e eficaz. A jornada para uma vida mais produtiva começa aqui!
             </p>
           </div>
         </div>
